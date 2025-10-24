@@ -4,7 +4,7 @@
 Toto portfólio prezentuje ukážky projektov z oblasti digitálneho marketingu so zameraním na PPC kampane (Google Ads, Facebook Meta Ads), SEO optimalizáciu a marketingovú automatizáciu.
 Repozitár obsahuje výsledky, vizualizácie, KPI a spätnú väzbu od klientov.
 
-## 📁 Struktúra
+## 📁 Struktúra 
 - about/ – informácie o autorovi
 - projects/ – detailné opisy kampaní
 - results/ – KPI, reporty, analytické výstupy
